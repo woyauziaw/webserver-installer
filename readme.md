@@ -38,7 +38,7 @@ pkg install git nginx php-fpm mariadb -y
 Ikuti langkah-langkah di bawah ini secara berurutan di dalam Termux:
 **1. Clone Repositori**
 ```bash
-git clone [https://github.com/woyauziaw/webserver-installer.git](https://github.com/woyauziaw/webserver-installer.git)
+git clone https://github.com/woyauziaw/webserver-installer.git
 cd webserver-installer
 
 ```
