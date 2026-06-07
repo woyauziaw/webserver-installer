@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 🌐 Woyauziaw Server (Termux Web Stack)
@@ -86,4 +86,3 @@ Dibuat dengan ☕ oleh <b>woyauziaw</b>
 </div>
 ```
 
-```
